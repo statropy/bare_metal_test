@@ -1,0 +1,7 @@
+BUILD/
+BUILD_DEBUG/
+BUILD_RELEASE/
+BUILD_TESTS/
+.vscode/
+mbed-os/
+__pycache__/
