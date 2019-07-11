@@ -1,6 +1,6 @@
 {
     "requires": [
-        "bare-metal"
+        "bare-metal", "nordic"
     ],
     "target_overrides": {
         "*": {
